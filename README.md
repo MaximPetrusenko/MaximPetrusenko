@@ -50,11 +50,11 @@ Technical Skills:
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;    
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>"/>&nbsp;
 </div>
   
   
-  - Infrastructure
+  - Infrastructure:
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
