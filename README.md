@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 📫 How to reach me:
+
+- 📫 ##How to reach me:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/maxim-petrusenko/">
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 
 Technical Skills:
 
-  - Languages:
+  ##- Languages:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
@@ -45,6 +46,7 @@ Technical Skills:
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   
   - Tools:
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
