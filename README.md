@@ -69,9 +69,14 @@ Technical Skills:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
 
   - Preferred Editors:
+  
     <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 
+
+  Statictics:
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaximPetrusenko&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
