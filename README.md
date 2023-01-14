@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 📫 ##How to reach me:
+- 📫 ## How to reach me:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/maxim-petrusenko/">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 Technical Skills:
 
-  ##- Languages:
+  ## - Languages:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
