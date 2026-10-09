@@ -1,16 +1,22 @@
 # Hi, I'm Maksim 👋
 
-**Senior Backend / DevOps Engineer · AI integrations · Available for freelance & contract work (remote · CET & APAC hours)**
+**Senior Platform / DevOps Engineer · AWS · Terraform · CI/CD · Agentic ops**
+**Contract & fractional work, remote · APAC and CET hours**
 
-I work as a one-person DevOps function for companies that need senior ownership without a full team — architecture through CI/CD through operations — and I build agentic AI systems that take real work off engineering and support teams.
+I run cloud platforms for companies that don't have, or don't want, a full-time ops team: architecture through CI/CD through operations, plus AI systems that take real work off engineering and support teams.
 
-Currently contracting at **iMusician** (Swiss music distribution platform), where I:
+## Recent work (sole platform engineer, Swiss music-distribution company)
 
-- 🤖 Shipped a custom AI support chatbot end to end (AWS, Terraform) — significantly reducing support team workload
-- ⚙️ Single-handedly run all cloud infrastructure and CI/CD at **99.9% uptime**
-- 🔁 Built an agent-driven bug-fixing pipeline (Sentry → MCP → AI coding agents) that autonomously triages, diagnoses, and fixes dev-stage bugs, with humans only reviewing
+- 💸 Cut the AWS run-rate by ~40% in three months across a seven-account estate
+- 🚀 Migrated the production API from Elastic Beanstalk to ECS Fargate with zero downtime
+- 🔍 Upgraded production Elasticsearch across a major version via blue/green, zero errors
+- 🛡 Led the response to a live security breach and closed the exposure in production
+- 🔔 Built the production alerting that hadn't existed before
+- 🤖 Shipped an AI support chatbot end to end, cutting support-team workload by 37%
+- 🔁 Built [sentry-bugfix-agent](https://github.com/MaximPetrusenko/sentry-bugfix-agent): Sentry → MCP → coding agents, bugs fixed on dev with humans only reviewing
+- 🏙 Run a multi-agent ops system that monitors AWS, drafts Terraform changes, reviews PRs, and reports daily
 
-Previously: large-scale media data migrations (10M+ elements) and AWS cloud migrations for major European publishers at unitb Consulting; robotics software at Fraunhofer IPK.
+Previously: 10M+ item media migration and AWS cloud migrations for major European publishers at unitb Consulting; robotics software at Fraunhofer IPK. B.Sc. Computer Science, TU Berlin.
 
 ## 🛠 Stack
 
@@ -29,6 +35,7 @@ Previously: large-scale media data migrations (10M+ elements) and AWS cloud migr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_/_Laravel-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **AI Engineering**
 
@@ -37,29 +44,26 @@ Previously: large-scale media data migrations (10M+ elements) and AWS cloud migr
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-1a1a2e?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D4A27F?style=flat-square&logo=anthropic&logoColor=black)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-2d2d2d?style=flat-square)
 
 **Data & Messaging**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square)
+![Valkey](https://img.shields.io/badge/Valkey_/_Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS_/_SNS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 
 **Observability**
 
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-1d1f27?style=flat-square&logo=posthog&logoColor=white)
 
-## 🚧 Currently building
-
-Open-source tooling around agentic DevOps workflows — including a sanitized version of my Sentry → MCP → agent bug-fixing pipeline. Watch this space.
-
 ## 📫 Reach me
+
+Available from November for contract or fractional work, one to five days a week, remote.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-petrusenko/)
 [![Email](https://img.shields.io/badge/Email-petrusenko.maksim%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:petrusenko.maksim@gmail.com)
